@@ -11,7 +11,7 @@ name='Run_3_Feb_';
 %% Just change this part
 
 % 
-%%  Comparing Debarshoi
+%%  Comparing 2019
 % x0 = [0; 0;0; 1];
 % A=[1;5;5;0];
 % A_buff=[A;1];
@@ -125,7 +125,7 @@ name='Run_3_Feb_';
 % fs = 10000 ; % sampling rate  
 % a = 0;
 % b=5;
-% path='Compare_Low_Noise_anju/';
+% path='Compare_Low_Noise_past/';
 % if ~exist(path, 'dir')
 %      mkdir(path)
 % end
@@ -141,7 +141,7 @@ Noise_var=0.1;
 fs = 2000 ; % sampling rate  
 a = 0;
 b=5;
-path='Compare_high_Noise_anju/';
+path='Compare_high_Noise_past/';
 if ~exist(path, 'dir')
      mkdir(path)
 end
