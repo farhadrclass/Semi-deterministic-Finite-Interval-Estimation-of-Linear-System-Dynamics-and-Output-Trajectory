@@ -1,3 +1,3 @@
-# ICML2021
+# Thesis 
 Code for Kernel repurducing
-# Utilities includes main the code 
+Utilities includes main the code 
